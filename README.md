@@ -88,8 +88,11 @@ It reflects real-world data analyst responsibilities including data cleaning, an
 ![Dashboard](dashboard.png)
 
 ### Python Analysis
-![Python](analysis.png)
+![Analysis](analysis.png)
 
-**Insights:**
-- Footwear has the highest average purchase value
-- Outerwear has the lowest spending trend
+## 🚀 Key Insights
+
+- 70% customers are non-subscribers
+- Clothing generates highest revenue
+- Middle-aged customers drive most sales
+- Repeat customers increase revenue stability
