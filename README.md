@@ -86,3 +86,11 @@ It reflects real-world data analyst responsibilities including data cleaning, an
 
 ### Dashboard
 ![Dashboard](./dashboard/dashboard.png)
+
+### Python Analysis
+
+![Python](analysis.png)
+
+**Insights:**
+- Footwear has the highest average purchase value
+- Outerwear has the lowest spending trend
