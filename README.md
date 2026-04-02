@@ -85,7 +85,7 @@ It reflects real-world data analyst responsibilities including data cleaning, an
 ## 📸 Project Screenshots
 
 ### Dashboard
-![Dashboard](./dashboard/dashboard.png)
+![image](https://github.com/....png)
 
 ### Python Analysis
 
