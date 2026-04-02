@@ -81,3 +81,8 @@ A retail company wants to understand:
 This project demonstrates a complete data analytics workflow — from raw data to business insights — using industry-relevant tools.
 
 It reflects real-world data analyst responsibilities including data cleaning, analysis, and visualization.
+
+## 📸 Project Screenshots
+
+### Dashboard
+![Dashboard](dashboard/dashboard.png)
